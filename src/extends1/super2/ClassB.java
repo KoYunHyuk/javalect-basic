@@ -11,4 +11,5 @@ public class ClassB extends ClassA {
         super(); // 기본 생성자 생략 가능
         System.out.println("ClassB 생성자 a = " + a + " b = " + b);
     }
+
 }
